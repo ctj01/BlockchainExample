@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\OFIMATICA-22\\Documents\\Blockchain\\solidity-tutorial\\blockchain-example\\contracts\\Example.sol": {
+      "lastModificationDate": 1708864134813,
+      "contentHash": "7c0c82fc63ea9f10a44ee364ebf1e2df",
+      "sourceName": "contracts/Example.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Example"
+      ]
+    }
+  }
+}
